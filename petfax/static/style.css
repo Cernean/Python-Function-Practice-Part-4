@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: red;
+    margin: 0;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 3em;
+}
+
+body{
+    display: block;
+    background-color: rgb(213, 246, 233);
+}
+
+h2 {
+    color: blue;
+    margin: 1em 0;
+}
+a {
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    border-radius: 2em;
+    display: block;
+    margin-bottom: 1em;
+}
+
